@@ -275,7 +275,7 @@ def action():
     jalan("\033[0;92mALL OLD IDS")
     jalan("\033[0;92mK STAR '")
     jalan("\033[0;92mYOUTUBE")
-    jalan("\033[0;92mASIM PARDASI")
+    jalan("\033[0;92mUSMAN BRAND")
     jalan ('\033[1;92m Total ids number: '+xxx)
     jalan ('\033[1;92mCode you choose: '+c)
     jalan ("\033[1;92mWait A While Start Account Cracking...")
